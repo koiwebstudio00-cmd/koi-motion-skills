@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+node_modules/
+*.mp4
+*.mov
+*.m4a
+*.wav
+*.mp3
+# Datos de cada cliente: quedan solo en la computadora
+skills/*/references/clientes/

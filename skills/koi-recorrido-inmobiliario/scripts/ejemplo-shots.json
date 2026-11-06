@@ -1,0 +1,15 @@
+{
+  "bpm": 110,
+  "font": "assets/fonts/Marca-Bold.ttf",
+  "face_rgb": [230, 224, 214],
+  "side_rgb": [58, 57, 54],
+  "shots": [
+    {"n": "persona", "f": "assets/clips/presentacion.mp4", "a": 1.2, "z": 9.4, "s": 0, "e": 15, "ramp": [0, 0], "person": true},
+    {"n": "frente", "f": "assets/clips/frente.mp4", "a": 0.2, "z": 4.4, "s": 15, "e": 20, "ramp": [1, 1], "title": {
+      "text": "420 m²", "anchor": 2.2, "size": 380, "ext": 14, "on": 0.35, "off": 2.2,
+      "quad": [[452, 1150], [975, 1140], [978, 1400], [448, 1420]],
+      "region": [[100, 700], [1070, 700], [1070, 1800], [100, 1800]]
+    }},
+    {"n": "cierre", "f": "assets/clips/frente.mp4", "a": 3.8, "z": 7.2, "s": 20, "e": 25, "ramp": [1, 0]}
+  ]
+}
